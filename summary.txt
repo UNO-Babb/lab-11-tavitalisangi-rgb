@@ -1,0 +1,8 @@
+I increased the item range to 15-30 item per customer. It increased the wait time since checkers had more items to process and decreased their idle time. 
+The average shopping times also increase as each shopper spent more time per item. 
+Changing the arrival rate, slowed down arrivals. It reduced the wait time for shoppers and increased idle time.  
+The number of checkers was adjusted to ten which was more than enough for a 6-minute arrival time. It resulted in low wait times and high idle times. 
+
+I added two functions: 
+Average shopping time: The average shoppers had 15-30 items, so their shopping times increased.
+Total shoppers: When arrivals rate was increased the total number of shoppers dropped, decreasing wait times and increasing idle time.
